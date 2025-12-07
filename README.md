@@ -1,4 +1,4 @@
-# Hotel Cancellation Analysis
+# Binary Classification with XGBoost: Label Prediction
 **Course: IEE 520 - Statistical Learning for Data Mining**
 
 **Institution: Arizona State University**
